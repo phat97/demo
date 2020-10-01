@@ -1,0 +1,9 @@
+Where are Global variables stored?
+
+Where are Local variables stored?
+
+Explain the code execution sequence of JavaScript
+
+What is Closure clause?
+
+What does the keyword Use Strict do in JavaScript?
