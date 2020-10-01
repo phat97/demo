@@ -2,7 +2,7 @@ Where are Global variables stored?
 
 Where are Local variables stored?
 
-Explain the difference of Var, Let, Const
+What are the differences of var, let and const?
 
 Explain the code execution sequence of JavaScript
 
