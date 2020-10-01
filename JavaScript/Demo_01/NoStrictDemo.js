@@ -1,9 +1,9 @@
-const hoistVariable = (function () {
+const globalVariable = (function () {
   var1 = "Oops";
   console.log(var1);
 })();
 
-// Got hoisted up
+// var1 is global
 console.log(var1);
 
 var2 = "global";

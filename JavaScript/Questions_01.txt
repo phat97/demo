@@ -2,6 +2,8 @@ Where are Global variables stored?
 
 Where are Local variables stored?
 
+Explain the difference of Var, Let, Const
+
 Explain the code execution sequence of JavaScript
 
 What is Closure clause?
