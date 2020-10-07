@@ -1,0 +1,12 @@
+https://medium.com/better-programming/callbacks-vs-promises-in-javascript-1f074e93a3b5
+
+Callback vs Promise:
+    - Promise returns an object after async task complete
+    - Callback is function call after async task complete
+    - Promise easier to manage (Promise Chaining) vs callback (callback hell)
+
+
+Async/await 
+    - Different way of writing promises/callbacks (await == promise.then)
+    - await waits for a promise to resolve
+    - async keyword ensures function returns promise by wrapping the return as a promise
